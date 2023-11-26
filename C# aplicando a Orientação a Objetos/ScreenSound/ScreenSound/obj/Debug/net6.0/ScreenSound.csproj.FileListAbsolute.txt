@@ -1,0 +1,15 @@
+C:\Users\laura\OneDrive\Área de Trabalho\C#\C# aplicando a Orientação a Objetos\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.exe
+C:\Users\laura\OneDrive\Área de Trabalho\C#\C# aplicando a Orientação a Objetos\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.deps.json
+C:\Users\laura\OneDrive\Área de Trabalho\C#\C# aplicando a Orientação a Objetos\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
+C:\Users\laura\OneDrive\Área de Trabalho\C#\C# aplicando a Orientação a Objetos\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.dll
+C:\Users\laura\OneDrive\Área de Trabalho\C#\C# aplicando a Orientação a Objetos\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.pdb
+C:\Users\laura\OneDrive\Área de Trabalho\C#\C# aplicando a Orientação a Objetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.AssemblyReference.cache
+C:\Users\laura\OneDrive\Área de Trabalho\C#\C# aplicando a Orientação a Objetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\OneDrive\Área de Trabalho\C#\C# aplicando a Orientação a Objetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
+C:\Users\laura\OneDrive\Área de Trabalho\C#\C# aplicando a Orientação a Objetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
+C:\Users\laura\OneDrive\Área de Trabalho\C#\C# aplicando a Orientação a Objetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\laura\OneDrive\Área de Trabalho\C#\C# aplicando a Orientação a Objetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.dll
+C:\Users\laura\OneDrive\Área de Trabalho\C#\C# aplicando a Orientação a Objetos\ScreenSound\ScreenSound\obj\Debug\net6.0\refint\ScreenSound.dll
+C:\Users\laura\OneDrive\Área de Trabalho\C#\C# aplicando a Orientação a Objetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
+C:\Users\laura\OneDrive\Área de Trabalho\C#\C# aplicando a Orientação a Objetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
+C:\Users\laura\OneDrive\Área de Trabalho\C#\C# aplicando a Orientação a Objetos\ScreenSound\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
